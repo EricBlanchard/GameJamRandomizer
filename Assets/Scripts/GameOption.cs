@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class GameOption : MonoBehaviour {
 
     public List<string> options = new List<string>();
-    public Text TXTlabel;
-    public Text TXTresult;
+    public TextMeshProUGUI TXTlabel;
+    public TextMeshProUGUI TXTresult;
     public bool canReroll = true;
     public string result = "";
 }

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89d4fbb6391cdcc40be4b274620182b2
+timeCreated: 1511238066
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Master Of Break
+  fontNames:
+  - Master Of Break
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
